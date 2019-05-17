@@ -1,0 +1,18 @@
+References:
+
+https://medium.com/@benjamindavidfraser/arduino-nrf24l01-communications-947e1acb33fb
+-Great resource for the RF24 chips
+-Contains a diagram for how to set up the chip, coding API and explanations of what they do, and example code.
+
+https://randomnerdtutorials.com/arduino-webserver-with-an-arduino-ethernet-shield/
+-great example of how create a webpage online with an arduino ethernet shield
+-showed how it was actually very similar to how I set up a chat server previously
+
+https://www.youtube.com/watch?v=WdfA57TUyII
+-video on how to set up a touch sensor
+
+https://www.instructables.com/id/How-to-use-a-photoresistor-or-photocell-Arduino-Tu/
+-webpage detailing how to set up a photoresistor
+
+https://www.arduino.cc/en/tutorial/button
+-webpage detailing how to set up a pushbutton
